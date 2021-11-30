@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [BookStore]">
+  <test thread-count="5" name="Book Store(failed)">
+    <classes>
+      <class name="com.bookstore.testcases.LoginPageTC_01">
+        <methods>
+          <include name="loginTest"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.bookstore.testcases.LoginPageTC_01 -->
+    </classes>
+  </test> <!-- Book Store(failed) -->
+</suite> <!-- Failed suite [BookStore] -->

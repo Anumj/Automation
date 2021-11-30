@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="BookStore">
+
+<test name="Book Store">
+
+
+
+<classes>
+		<!-- 
+			 <class name="com.bookstore.testcases.LoginPageTC_01"/>
+			 <class name="com.bookstore.testcases.GotoBookstoreTC"/>
+			 <class name="com.bookstore.testcases.BookSelection"/>
+			 <class name="com.bookstore.testcases.BookCollection"/> -->
+			 
+			
+			
+
+		</classes>
+		
+</test>
+
+</suite>

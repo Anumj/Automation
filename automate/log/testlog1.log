@@ -1,0 +1,139 @@
+2021-11-19 17:49:01,290 [main] INFO BookStore - URL is OPened
+2021-11-19 17:49:04,489 [main] INFO BookStore - Entered UserName
+2021-11-19 17:49:04,573 [main] INFO BookStore - Entered Password
+2021-11-19 19:00:45,988 [main] INFO BookStore - URL is OPened
+2021-11-19 19:00:49,395 [main] INFO BookStore - Entered UserName
+2021-11-19 19:00:49,468 [main] INFO BookStore - Entered Password
+2021-11-19 22:29:46,735 [main] INFO BookStore - URL is OPened
+2021-11-19 22:29:50,036 [main] INFO BookStore - Entered UserName
+2021-11-19 22:29:50,106 [main] INFO BookStore - Entered Password
+2021-11-20 22:24:40,546 [main] INFO BookStore - URL is OPened
+2021-11-20 22:24:43,818 [main] INFO BookStore - Entered UserName
+2021-11-20 22:24:43,894 [main] INFO BookStore - Entered Password
+2021-11-20 22:24:50,013 [main] INFO BookStore - LoginTest passed
+2021-11-20 22:59:29,336 [main] INFO BookStore - URL is OPened
+2021-11-20 22:59:32,495 [main] INFO BookStore - Entered UserName
+2021-11-20 22:59:32,578 [main] INFO BookStore - Entered Password
+2021-11-20 22:59:38,620 [main] INFO BookStore - LoginTest passed
+2021-11-20 23:01:23,512 [main] INFO BookStore - URL is OPened
+2021-11-20 23:01:26,655 [main] INFO BookStore - Entered UserName
+2021-11-20 23:01:26,730 [main] INFO BookStore - Entered Password
+2021-11-20 23:01:32,867 [main] INFO BookStore - LoginTest passed
+2021-11-20 23:05:21,317 [main] INFO BookStore - URL is OPened
+2021-11-20 23:05:24,474 [main] INFO BookStore - Entered UserName
+2021-11-20 23:05:24,545 [main] INFO BookStore - Entered Password
+2021-11-20 23:05:30,675 [main] INFO BookStore - LoginTest passed
+2021-11-20 23:20:58,746 [main] INFO BookStore - URL is OPened
+2021-11-20 23:21:01,904 [main] INFO BookStore - Entered UserName
+2021-11-20 23:21:01,990 [main] INFO BookStore - Entered Password
+2021-11-20 23:21:08,203 [main] INFO BookStore - LoginTest passed
+2021-11-20 23:21:46,136 [main] INFO BookStore - URL is OPened
+2021-11-20 23:21:49,321 [main] INFO BookStore - Entered UserName
+2021-11-20 23:21:49,408 [main] INFO BookStore - Entered Password
+2021-11-20 23:21:55,605 [main] INFO BookStore - LoginTest passed
+2021-11-20 23:22:10,817 [main] INFO BookStore - URL is OPened
+2021-11-20 23:22:13,978 [main] INFO BookStore - Entered UserName
+2021-11-20 23:22:14,062 [main] INFO BookStore - Entered Password
+2021-11-20 23:22:20,244 [main] INFO BookStore - LoginTest passed
+2021-11-20 23:23:02,587 [main] INFO BookStore - URL is OPened
+2021-11-20 23:23:05,779 [main] INFO BookStore - Entered UserName
+2021-11-20 23:23:05,865 [main] INFO BookStore - Entered Password
+2021-11-20 23:23:12,048 [main] INFO BookStore - LoginTest passed
+2021-11-20 23:23:41,069 [main] INFO BookStore - URL is OPened
+2021-11-20 23:23:44,256 [main] INFO BookStore - Entered UserName
+2021-11-20 23:23:44,343 [main] INFO BookStore - Entered Password
+2021-11-20 23:23:50,508 [main] INFO BookStore - LoginTest passed
+2021-11-20 23:26:04,709 [main] INFO BookStore - URL is OPened
+2021-11-20 23:26:07,912 [main] INFO BookStore - Entered UserName
+2021-11-20 23:26:07,999 [main] INFO BookStore - Entered Password
+2021-11-20 23:26:14,189 [main] INFO BookStore - LoginTest passed
+2021-11-22 10:28:08,826 [main] INFO BookStore - URL is OPened
+2021-11-22 10:28:12,918 [main] INFO BookStore - Entered UserName
+2021-11-22 10:28:12,994 [main] INFO BookStore - Entered Password
+2021-11-22 10:28:19,158 [main] INFO BookStore - LoginTest passed
+2021-11-22 10:28:38,785 [main] INFO BookStore - URL is OPened
+2021-11-22 10:28:41,982 [main] INFO BookStore - Entered UserName
+2021-11-22 10:28:42,070 [main] INFO BookStore - Entered Password
+2021-11-22 10:28:48,198 [main] INFO BookStore - LoginTest passed
+2021-11-22 10:29:04,233 [main] INFO BookStore - URL is OPened
+2021-11-22 10:29:07,374 [main] INFO BookStore - Entered UserName
+2021-11-22 10:29:07,453 [main] INFO BookStore - Entered Password
+2021-11-22 10:29:13,577 [main] INFO BookStore - LoginTest passed
+2021-11-22 10:43:12,983 [main] INFO BookStore - URL is OPened
+2021-11-22 10:43:16,229 [main] INFO BookStore - Entered UserName
+2021-11-22 10:43:16,319 [main] INFO BookStore - Entered Password
+2021-11-22 10:43:22,436 [main] INFO BookStore - LoginTest passed
+2021-11-22 10:44:34,298 [main] INFO BookStore - URL is OPened
+2021-11-22 10:44:37,517 [main] INFO BookStore - Entered UserName
+2021-11-22 10:44:37,589 [main] INFO BookStore - Entered Password
+2021-11-22 10:44:43,733 [main] INFO BookStore - LoginTest passed
+2021-11-22 10:45:17,111 [main] INFO BookStore - URL is OPened
+2021-11-22 10:45:20,253 [main] INFO BookStore - Entered UserName
+2021-11-22 10:45:20,325 [main] INFO BookStore - Entered Password
+2021-11-22 10:45:26,460 [main] INFO BookStore - LoginTest passed
+2021-11-22 11:06:02,215 [main] INFO BookStore - URL is OPened
+2021-11-22 11:06:05,361 [main] INFO BookStore - Entered UserName
+2021-11-22 11:06:05,431 [main] INFO BookStore - Entered Password
+2021-11-22 11:06:11,533 [main] INFO BookStore - LoginTest passed
+2021-11-22 11:10:17,280 [main] INFO BookStore - URL is OPened
+2021-11-22 11:10:20,424 [main] INFO BookStore - Entered UserName
+2021-11-22 11:10:20,500 [main] INFO BookStore - Entered Password
+2021-11-22 11:10:26,597 [main] INFO BookStore - LoginTest passed
+2021-11-22 11:29:22,895 [main] INFO BookStore - URL is OPened
+2021-11-22 11:29:26,054 [main] INFO BookStore - Entered UserName
+2021-11-22 11:29:26,137 [main] INFO BookStore - Entered Password
+2021-11-22 11:29:32,251 [main] INFO BookStore - LoginTest passed
+2021-11-22 12:20:13,527 [main] INFO BookStore - URL is OPened
+2021-11-22 12:20:16,661 [main] INFO BookStore - Entered UserName
+2021-11-22 12:20:16,745 [main] INFO BookStore - Entered Password
+2021-11-22 12:20:22,857 [main] INFO BookStore - LoginTest passed
+2021-11-22 18:11:46,878 [main] INFO BookStore - URL is OPened
+2021-11-22 18:11:50,464 [main] INFO BookStore - Entered UserName
+2021-11-22 18:11:50,630 [main] INFO BookStore - Entered Password
+2021-11-22 18:11:56,846 [main] INFO BookStore - LoginTest passed
+2021-11-22 18:13:17,652 [main] INFO BookStore - URL is OPened
+2021-11-22 18:13:20,866 [main] INFO BookStore - Entered UserName
+2021-11-22 18:13:20,990 [main] INFO BookStore - Entered Password
+2021-11-22 18:13:27,163 [main] INFO BookStore - LoginTest passed
+2021-11-22 18:15:04,820 [main] INFO BookStore - URL is OPened
+2021-11-22 18:15:07,981 [main] INFO BookStore - Entered UserName
+2021-11-22 18:15:08,055 [main] INFO BookStore - Entered Password
+2021-11-22 18:15:14,176 [main] INFO BookStore - LoginTest passed
+2021-11-22 18:17:25,445 [main] INFO BookStore - URL is OPened
+2021-11-22 18:17:28,651 [main] INFO BookStore - Entered UserName
+2021-11-22 18:17:28,743 [main] INFO BookStore - Entered Password
+2021-11-22 18:17:34,905 [main] INFO BookStore - LoginTest passed
+2021-11-25 17:02:19,407 [main] INFO BookStore - URL is OPened
+2021-11-25 17:02:23,680 [main] INFO BookStore - Entered UserName
+2021-11-25 17:02:23,753 [main] INFO BookStore - Entered Password
+2021-11-25 17:02:29,943 [main] INFO BookStore - LoginTest passed
+2021-11-25 17:05:27,034 [main] INFO BookStore - URL is OPened
+2021-11-25 17:05:30,220 [main] INFO BookStore - Entered UserName
+2021-11-25 17:05:30,302 [main] INFO BookStore - Entered Password
+2021-11-25 17:05:36,459 [main] INFO BookStore - LoginTest passed
+2021-11-29 12:40:57,499 [main] INFO BookStore - URL is OPened
+2021-11-29 12:45:04,428 [main] INFO BookStore - URL is OPened
+2021-11-29 12:49:20,585 [main] INFO BookStore - URL is OPened
+2021-11-29 12:52:05,667 [main] INFO BookStore - URL is OPened
+2021-11-29 12:56:30,232 [main] INFO BookStore - URL is OPened
+2021-11-29 12:58:55,877 [main] INFO BookStore - URL is OPened
+2021-11-29 13:01:52,536 [main] INFO BookStore - URL is OPened
+2021-11-29 13:02:32,700 [main] INFO BookStore - URL is OPened
+2021-11-29 13:10:58,110 [main] INFO BookStore - URL is OPened
+2021-11-29 13:13:21,499 [main] INFO BookStore - URL is OPened
+2021-11-29 13:14:52,024 [main] INFO BookStore - URL is OPened
+2021-11-29 13:22:13,688 [main] INFO BookStore - URL is OPened
+2021-11-29 13:32:25,406 [main] INFO BookStore - URL is OPened
+2021-11-29 13:34:04,745 [main] INFO BookStore - URL is OPened
+2021-11-29 13:34:40,747 [main] INFO BookStore - URL is OPened
+2021-11-29 13:35:21,768 [main] INFO BookStore - URL is OPened
+2021-11-29 13:36:41,135 [main] INFO BookStore - URL is OPened
+2021-11-29 13:38:40,421 [main] INFO BookStore - URL is OPened
+2021-11-29 13:41:02,260 [main] INFO BookStore - URL is OPened
+2021-11-29 19:05:46,398 [main] INFO BookStore - URL is OPened
+2021-11-29 19:06:01,591 [main] INFO BookStore - URL is OPened
+2021-11-29 19:07:00,528 [main] INFO BookStore - URL is OPened
+2021-11-30 17:53:15,481 [main] INFO BookStore - URL is OPened
+2021-11-30 17:53:18,993 [main] INFO BookStore - Entered UserName
+2021-11-30 17:53:19,110 [main] INFO BookStore - Entered Password
+2021-11-30 17:53:25,236 [main] INFO BookStore - LoginTest passed
